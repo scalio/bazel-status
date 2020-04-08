@@ -9,6 +9,7 @@
 # Scalio Bazel Work
 
 - [Scalio-Bazel Nest Starter](https://scal.io/work/bazel-nestjs)
+- [Scalio-Bazel Flutter Starter](https://scal.io/work/bazel-flutter)
 - [Scalio-Bazel Nx-Monorepo Starter](https://scal.io/work/bazel-nx-monorepo)
 - [Scalio-Bazel Dotnet-Core Starter](https://scal.io/work/bazel-dotnet-core)
 - [Scalio-Bazel Android-Java Starter](https://scal.io/work/bazel-android-java)
